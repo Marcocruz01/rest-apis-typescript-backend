@@ -34,6 +34,4 @@ el cual usamos un stack PERN (PostgreSQL, Express, React, Node.js), te permite c
 
 
 ## Vista General
-![vista previa](./products.png)
-![vista previa](./add_product.png)
-![vista previa](./edit_product.png)
+![vista previa](./RESTAPI's.png)
