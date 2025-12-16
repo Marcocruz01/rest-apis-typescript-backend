@@ -13,7 +13,7 @@ el cual usamos un stack PERN (PostgreSQL, Express, React, Node.js), te permite c
   - **GET /api/products/{id}:** Obtener un producto por ID.
   - **POST /api/products:** Crear un nuevo producto.
   - **PUT /api/products/{id}:** Actualizar un producto completo.
-  - **PATCH /api/products/{id}:**Actualizar la disponibilidad de un producto.
+  - **PATCH /api/products/{id}:** Actualizar la disponibilidad de un producto.
   - **DELETE /api/products/{id}:** Acción dedicada para eliminar registros (deleteProductAction).
 - Configuración de Servidor: El servidor se inicia en el puerto 4000 (o el que se defina en las variables de entorno) y utiliza morgan para logging de peticiones.
 - CORS: Configuración de CORS para permitir conexiones desde una URL de frontend específica (process.env.FRONTEND_URL).
